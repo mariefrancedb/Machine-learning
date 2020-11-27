@@ -1,0 +1,98 @@
+﻿id journée;Nom;Tâche;Importance (poids);Catégorie;Temps requis;Obligatoire (0/1);Heure de début;Heure de fin
+1;Celestin;Travail, matin;10;Travail;240;1;8;12
+1;Celestin;Travail, après-midi;10;Travail;240;1;13;17
+1;Celestin;Aller à la poste ;2;Taches;30;0;;
+1;Celestin;Natation;3;Sport;60;0;;
+1;Celestin;Course;2;Sport;45;0;;
+1;Celestin;Cyclisme;4;Sport;120;0;;
+1;Celestin;Préparer un cours;3;Etude;60;0;;
+1;Celestin;Avancer un devoir ;3;Etude;60;0;;
+1;Celestin;Finir un devoir (urgent);5;Etude;90;0;;
+1;Celestin;Netflix ;2;Loisir;120;0;;
+1;Celestin;Épicerie;3;Taches;30;0;;
+1;Celestin;Faire un gateau ;1;Loisir;30;0;;
+1;Celestin;Lunch;4;Pauses;30;0;;
+1;Celestin;Diner;4;Pauses;60;0;;
+2;Celestin;Réunion ;10;Etude;60;1;10;11
+2;Celestin;Cours 1 ;10;Etude;180;1;12;15
+2;Celestin;Cours 2;10;Etude;180;1;15,5;18,5
+2;Celestin;Préparer un cours;3;Etude;60;0;;
+2;Celestin;Avancer les devoirs;3;Etude;60;0;;
+2;Celestin;Finir un TP;5;Etude;90;0;;
+2;Celestin;Natation;3;Sport;60;0;;
+2;Celestin;Course;2;Sport;45;0;;
+2;Celestin;Lunch;4;Pauses;30;0;;
+2;Celestin;Diner;4;Pauses;60;0;;
+2;Celestin;Netflix ;2;Loisir;60;0;;
+2;Celestin;Aller chez Sofia;5;Taches;30;0;;
+2;Celestin;Épicerie;3;Taches;30;0;;
+1;Norman;Preparer cours;10;Etude;60;1;;
+1;Norman;Rencontre travail équipe;10;Etude;60;1;;
+1;Norman;Cuisine;3;Taches;30;0;;
+1;Norman;Cours 1 ;10;Etude;180;1;;
+1;Norman;Cours 2;10;Etude;180;1;;
+1;Norman;Etudier sur devoir;3;Etude;60;0;;
+1;Norman;Workout;4;Loisir;60;0;;
+1;Norman;Cuisine;3;Taches;30;0;;
+1;Norman;Netflix ;2;Loisir;90;0;;
+2;Norman;Travail, matin;10;Travail;180;1;;
+2;Norman;Cuisine;3;Taches;30;0;;
+2;Norman;Travail, après-midi;10;Travail;240;1;;
+2;Norman;Workout;4;Loisir;60;0;;
+2;Norman;Preparer cours;3;Etude;45;0;;
+2;Norman;Ecrire projet;2;Etude;60;0;;
+2;Norman;Netflix ;1;Loisir;45;0;;
+1;Marie-France;Préparer une présentation;4;Etude;40;0;;
+1;Marie-France;Cours de logiciels;10;Etude;180;1;15:30;18:30
+1;Marie-France;Préparer discours;3;Taches;60;0;;
+1;Marie-France;Lunch;4;Pauses;30;0;;
+1;Marie-France;Diner;4;Pauses;60;0;;
+1;Marie-France;Cuisiner;3;Taches;60;0;;
+1;Marie-France;Netflix;1;Loisir;60;0;;
+1;Marie-France;Écouter capsule;4;Etude;45;0;;
+2;Marie-France;Cours ML;10;Etude;90;1;08:30;10:00
+2;Marie-France;Cours algo;10;Etude;180;1;12:00;15:30
+2;Marie-France;Lire chapitre;3;Etude;120;0;;
+2;Marie-France;Lunch;4;Pauses;30;0;;
+2;Marie-France;Diner;4;Pauses;60;0;;
+2;Marie-France;Écrire rapport stage;3;Etude;120;0;;
+2;Marie-France;Netflix;1;Loisir;60;0;;
+2;Marie-France;Autobus;10;Taches;75;1;16:30;17:45
+3;Marie-France;Cours projets;10;Etude;180;1;08:30;11:30
+3;Marie-France;Présentation finale;10;Etude;120;1;17:00;19:00
+3;Marie-France;Faire rapport;4;Etude;120;0;;
+3;Marie-France;Lunch;4;Pauses;30;0;;
+3;Marie-France;Diner;4;Pauses;60;0;;
+3;Marie-France;Appel Famille;2;Loisir;45;0;;
+3;Marie-France;Netflix;1;Loisir;45;0;;
+3;Marie-France;Épicerie;3;Taches;60;0;;
+1;Alex;Routine matinale ;2;Pauses;60;0;;
+1;Alex;Travail de recherche;10;Travail;180;1;09:00;12:00
+1;Alex;Diner;4;Pauses;30;0;;
+1;Alex;Meal prep;2;Taches;90;0;;
+1;Alex;Workout;5;Sport;45;0;;
+1;Alex;Devoir ;4;Etude;120;0;;
+1;Alex;Souper ;4;pauses;120;0;;
+1;Alex;xbox;1;Loisir;120;0;;
+1;Alex;Lecture ;3;Loisir;30;0;;
+2;Alex;Routine matinale ;2;Pauses;60;0;;
+2;Alex;Cours;10;Etude;180;1;12:00;15:00
+2;Alex;Cours;10;Etude;180;1;15:30;18:30
+2;Alex;Course à pied;4;Sport;20;0;;
+2;Alex;Diner;4;Pauses;30;0;;
+2;Alex;Devoir ;3;Etude;120;0;;
+2;Alex;Épicerie;4;Taches;60;0;;
+2;Alex;Souper ;4;Pauses;120;0;;
+2;Alex;Netflix;1;Loisir;120;0;;
+2;Alex;Lecture ;3;Loisir;30;0;;
+3;Alex;Routine matinale ;2;Pauses;60;0;;
+3;Alex;Velo;5;Sport;120;0;;
+3;Alex;Devoir ;4;Etude;60;0;;
+3;Alex;Travail de recherche;10;Travail;120;1;14:00;16:00
+3;Alex;Diner;4;Pauses;30;0;;
+3;Alex;Rencontre équipe;10;Etude;60;1;13:00;14:00
+3;Alex;Biere avec les chums ;10;Loisir;60;1;16:00;17:00
+3;Alex;Épicerie;3;Taches;30;0;;
+3;Alex;souper ;4;Pauses;120;0;;
+3;Alex;xbox;1;Loisir;120;0;;
+3;Alex;Netflix;2;Loisir;30;0;;
